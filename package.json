@@ -1,6 +1,6 @@
 {
   "name": "svg-3d-simplicial-complex",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Renders a simplicial complex to a chunk of an svg file",
   "main": "render.js",
   "directories": {
