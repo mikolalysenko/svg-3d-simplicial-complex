@@ -61,7 +61,7 @@ function zSortCells(vertices, cells) {
   return taggedCells
 }
 
-function renderComplex(vertices, cells, options) {
+function renderComplex(cells, vertices, options) {
   options = options || {}
   var model = options.model || identity
   var view = options.view || identity

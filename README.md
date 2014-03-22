@@ -34,11 +34,11 @@ npm install svg-3d-simplicial-complex
 
 # API
 
-### `require("svg-3d-simplicial-complex")(positions,cells[,options])`
+### `require("svg-3d-simplicial-complex")(cells,positions,[,options])`
 Renders a simplicial complex as a list of <polygon> elements
 
-* `positions` is a list of vertex positions
 * `cells` is an indexed list of facets
+* `positions` is a list of vertex positions
 * `options` is an object that has the following optional properties:
 
     + `model` the model matrix for the camera
