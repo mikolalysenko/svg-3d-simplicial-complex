@@ -1,0 +1,35 @@
+{
+  "name": "svg-3d-simplicial-complex",
+  "version": "0.0.0",
+  "description": "Renders a simplicial complex to a chunk of an svg file",
+  "main": "render.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gl-matrix": "~2.1.0",
+    "split-polygon": "~0.0.3"
+  },
+  "devDependencies": {
+    "bunny": "~1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/svg-3d-simplicial-complex.git"
+  },
+  "keywords": [
+    "svg",
+    "3d",
+    "mesh",
+    "graphics"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/svg-3d-simplicial-complex/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/svg-3d-simplicial-complex"
+}
