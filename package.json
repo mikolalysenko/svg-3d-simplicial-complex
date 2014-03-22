@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "gl-matrix": "~2.1.0",
-    "split-polygon": "~0.0.3"
+    "split-polygon": "~0.0.3",
+    "normals": "^0.1.0"
   },
   "devDependencies": {
     "bunny": "~1.0.1"
