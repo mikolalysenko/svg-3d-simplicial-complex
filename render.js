@@ -82,7 +82,6 @@ function renderComplex(cells, vertices, options) {
   //Sort polygons by z distance
   var zcells = zSortCells(clipVerts, cells)
 
-  
   //Splat cells to list
   return zcells.map(function(pair) {
     var cell = pair[1]
