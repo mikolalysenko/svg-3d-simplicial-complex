@@ -24,7 +24,7 @@ console.log("</svg>")
 
 Output svg:
 
-<img src="bunny.svg">
+<img src="https://mikolalysenko.github.io/svg-3d-simplicial-complex/bunny.svg">
 
 # Install
 
